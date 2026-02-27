@@ -306,4 +306,3 @@ with col1:
             file_name="watering_schedule.xlsx",
             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
         )
-``
